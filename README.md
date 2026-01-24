@@ -7,12 +7,12 @@ Hi there, I'm  Ratchanya Mathivanan👋
 * 👯 I’m looking to collaborate on ...Data Scientist
 * 💬 Ask me about ...Profession
 * 📫 How to reach me: ratchanyavijay@gmail.com
-* ⚡ Fun fact: ...# Ratchanya-Mathivanan Crazy on 2000-2005 Cricket
+* ⚡ Fun fact: ...# Ratchanya-Mathivanan Crazy on 2000-2005 Cricket captained by Sourav Ganguly.It's a period when all are the fans of Team India, not an individual fan
 Creating profile for skillup session
 My Tech Stack
 
 Here are a few technologies I've been working with recently:
-* **Tools:** MS Excel,Power BI,Python with AI
+* **Tools:** MS Excel,Power BI,Python with AI,My SQL
 
 ---
  🔗 Connect with me:
